@@ -1,0 +1,71 @@
+@media (max-width: 460px) {
+    h1 {
+        font-size: 3.5rem;
+        line-height: 1.2;
+    }
+}
+
+body {
+    text-align: center;
+    color: #333;
+    margin: 0
+}
+
+#title {
+    display: block;
+    font-weight: bold;
+    font-size: 4rem;
+    margin-bottom: 0;
+}
+
+#main {
+    display: block;
+    padding: 15px;
+    border-radius: 5px;
+    background-color: #eee;
+}
+
+#image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+#img-div {
+    background-color: white;
+    padding: 10px;
+    margin: 0;
+}
+
+section {
+    display: block;
+}
+
+#headline {
+    margin: 50px 0;
+    text-align: center;
+    font-size: 1.17rem;
+    font-weight: bold;
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+}
+
+li {
+    display: list-item;
+    margin: 16px 0;
+    text-align: left;
+}
+
+blockquote {
+    font-style: italic;
+    max-width: 545px;
+    display: block;
+    margin: 0 auto 50px auto;
+    text-align: left;
+}
